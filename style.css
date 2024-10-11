@@ -131,6 +131,9 @@ transform: scale(1.1);
 .profile .bg-profile .info a{ 
   color: greenyellow;
 }
+.profile .bg-profile .info .press-start-2p-regular{ 
+  font-size: 25px;
+}
 .profile .bg-profile img{
   width: 25vw;
   border-radius: 20rem;
